@@ -109,16 +109,16 @@ retail-sales-analytics/
 └── README.md
 
 ```
-##Technologies Used
+## Technologies Used
 Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | SQL | Tableau
 <br><br>
 
-##Conclusion
+## Conclusion
 This project provided practical experience in data cleaning, exploratory data analysis, SQL querying, and business intelligence dashboard development.
 
 It demonstrates how raw retail data can be transformed into meaningful business insights to support data-driven decision-making.<br><br>
 
-##Author: Himani
+## Author: Himani
 
 
 LinkedIn Id: https://www.linkedin.com/in/himani-malankar/
