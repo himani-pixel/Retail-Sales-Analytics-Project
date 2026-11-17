@@ -108,6 +108,7 @@ retail-sales-analytics/
 ├── .gitignore
 └── README.md
 
+```
 ##Technologies Used
 Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | SQL | Tableau
 <br><br>
